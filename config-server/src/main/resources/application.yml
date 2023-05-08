@@ -8,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/joseacarmo17/BootcampNttData.git
-        default-label: master
+        default-label: main
         search-paths:
         - '*service*'
 
